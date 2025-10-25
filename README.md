@@ -11,28 +11,28 @@
 
 ### 🌐 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /> HTML  
-  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /> CSS  
-  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /> JavaScript  
-  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /> React  
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap" /> Bootstrap  
-  <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" /> Vite  
+  <img src="https://skillicons.dev/icons?i=html" width="25"/> <b>HTML</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="25"/> <b>CSS</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="25"/> <b>JavaScript</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="25"/> <b>React</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="25"/> <b>Bootstrap</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="25"/> <b>Vite</b>
 </p>
 
-### ⚙️ Back-End (base)
+### ⚙️ Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /> Node.js  
-  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /> Express  
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /> MySQL  
+  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> <b>Node.js</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="25"/> <b>Express</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> <b>MySQL</b>
 </p>
 
 ### 🧰 Strumenti
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /> Git  
-  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /> GitHub  
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" /> VS Code  
-  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /> Postman  
-  <img src="https://skillicons.dev/icons?i=railway" width="40" alt="Railway" /> Railway  
+  <img src="https://skillicons.dev/icons?i=git" width="25"/> <b>Git</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="25"/> <b>GitHub</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="25"/> <b>VS Code</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="25"/> <b>Postman</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=railway" width="25"/> <b>Railway</b>
 </p>
 
 ---
