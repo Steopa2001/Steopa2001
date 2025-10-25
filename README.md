@@ -11,17 +11,28 @@
 
 ### 🌐 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite" alt="Front-end skills" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /> HTML  
+  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /> CSS  
+  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /> JavaScript  
+  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /> React  
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap" /> Bootstrap  
+  <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" /> Vite  
 </p>
 
 ### ⚙️ Back-End (base)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Back-end skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /> Express  
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /> MySQL  
 </p>
 
 ### 🧰 Strumenti
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,railway" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /> Git  
+  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /> GitHub  
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" /> VS Code  
+  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /> Postman  
+  <img src="https://skillicons.dev/icons?i=railway" width="40" alt="Railway" /> Railway  
 </p>
 
 ---
