@@ -1,30 +1,28 @@
-# 👋 Ciao, sono Stefan Moraru
+<h1 align="center">👋 Ciao, sono Stefan Moraru</h1>
 
-💻 **Front-End Web Developer** appassionato di interfacce pulite, accessibili e moderne.  
-Ho completato un percorso intensivo di **700 ore** con [Boolean Careers](https://boolean.careers/), dove ho studiato e realizzato progetti concreti su tecnologie front-end e back-end.
+<p align="center">
+  💻 <b>Front-End Web Developer</b> appassionato di interfacce pulite, accessibili e moderne.<br>
+  🎓 Ho completato un percorso intensivo di <b>700 ore</b> con <a href="https://boolean.careers/">Boolean Careers</a>, dove ho studiato e realizzato progetti concreti su tecnologie front-end e back-end.
+</p>
 
 ---
 
 ## 🚀 Tecnologie & Competenze
 
 ### 🌐 Front-End
-- HTML5, CSS3, Sass
-- JavaScript (ES6+)
-- React.js
-- Bootstrap, Axios
-- Responsive design & Mobile-first
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,vite" alt="Front-end skills" />
+</p>
 
 ### ⚙️ Back-End (base)
-- Node.js
-- Express.js
-- MySQL
-- API REST
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Back-end skills" />
+</p>
 
 ### 🧰 Strumenti
-- Git / GitHub
-- Vite, npm
-- VS Code, Postman
-- Railway, Netlify, GitHub Pages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,railway" alt="Tools" />
+</p>
 
 ---
 
@@ -44,6 +42,15 @@ Ho completato un percorso intensivo di **700 ore** con [Boolean Careers](https:/
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Steopa2001&show_icons=true&theme=react&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steopa2001&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Contatti
 
 📧 **Email:** [moraru495@gmail.com](mailto:moraru495@gmail.com)  
@@ -52,4 +59,12 @@ Ho completato un percorso intensivo di **700 ore** con [Boolean Careers](https:/
 
 ---
 
-> 🌱 “Non smetto mai di imparare: ogni riga di codice è un passo in più verso qualcosa di migliore.”
+<p align="center">
+  <i>🌱 “Non smetto mai di imparare: ogni riga di codice è un passo in più verso qualcosa di migliore.”</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Steopa2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
