@@ -11,7 +11,7 @@
 
 ### 🌐 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,vite" alt="Front-end skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite" alt="Front-end skills" />
 </p>
 
 ### ⚙️ Back-End (base)
