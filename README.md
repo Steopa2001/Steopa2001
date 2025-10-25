@@ -32,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="25"/> <b>GitHub</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="25"/> <b>VS Code</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="25"/> <b>Postman</b>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=railway" width="25"/> <b>Railway</b>
 </p>
 
 ---
