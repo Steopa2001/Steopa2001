@@ -63,8 +63,3 @@
   <i>🌱 “Non smetto mai di imparare: ogni riga di codice è un passo in più verso qualcosa di migliore.”</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Steopa2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
