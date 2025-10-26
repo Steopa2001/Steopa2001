@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=vite" width="25"/> <b>Vite</b>
 </p>
 
-### ⚙️ Back-End
+### ⚙️ Back-End (base)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> <b>Node.js</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" width="25"/> <b>Express</b>&nbsp;&nbsp;
